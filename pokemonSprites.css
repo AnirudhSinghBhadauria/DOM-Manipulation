@@ -1,0 +1,19 @@
+body{cursor: url("https://img.icons8.com/emoji/10/000000/black-circle-emoji.png") , default;}
+div{
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}img{
+    display: block;
+    transform : scale(1);
+    transition: transform 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}img:hover{
+    transform : scale(1.5);
+    cursor: url("https://img.icons8.com/windows/25/000000/circle-thin--v1.png") , default;
+}body{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}h1{
+    color: #000000;
+}

@@ -1,0 +1,28 @@
+li {
+  background-color: #b10dc9;
+}
+
+.highlight {
+  background-color: #7fdbff;
+}
+
+#square {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 12px;
+
+  background: rgb(222, 201, 233);
+  background: linear-gradient(
+    135deg,
+    rgba(222, 201, 233, 1) 9%,
+    rgba(218, 195, 232, 1) 18%,
+    rgba(210, 183, 229, 1) 27%,
+    rgba(193, 158, 224, 1) 36%,
+    rgba(177, 133, 219, 1) 45%,
+    rgba(160, 108, 213, 1) 54%,
+    rgba(145, 99, 203, 1) 63%,
+    rgba(129, 90, 192, 1) 72%,
+    rgba(114, 81, 181, 1) 81%,
+    rgba(98, 71, 170, 1) 90%
+  );
+}
